@@ -3,4 +3,4 @@
 
 Python tutorial for PhD Students of https://www.iup.uni-bremen.de/
 
-see [iup.ipynb]
+see [iup.ipynb](iup.ipynb)
